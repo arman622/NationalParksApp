@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NationalParksApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">Map</string>
+    <string name="parks">Parks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_summary">Andrew Johnson\'s complex presidency (1865-69) illustrates the Constitution at work following the Civil War. As the President and Congress disagreed on Reconstruction methods, the Constitution served as their guide on balance of powers, vetoes, and impeachment. In the end, it evolved as a living document with pivotal amendments on freedom, citizenship, and voting rights - topics still vital today.</string>
+    <string name="activities_summary">Arts and Culture | Guided Tours | Self-Guided Tours - Walking | Junior Ranger Program | Museum Exhibits</string>
+</resources>
